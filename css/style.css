@@ -6,7 +6,7 @@ html, body {
 }
 
 body {
-  background: url(../images/backgrounds/architecture.jpg) center no-repeat;
+  background: url(/Users/justinizu/Development/Code/PreWork/phase-0-html-riyadh-blog-lab/images/transportation/photo-1482881497185-d4a9ddbe4151.jpg) center no-repeat;
   background-size: cover;
   background-attachment: fixed;
   font-family: Helvetica, Arial, sans-serif;
@@ -21,11 +21,11 @@ body {
 
 #content {
   padding: 20px;
-  background: rgba(255,255,255,.85);
+  background: rgba(163, 163, 163, 0.401);
 }
 
 h1, h2 {
-  font-family: 'Gabriela', serif;
+  font-family: 'Helvetica', serif;
   color: #fff;
 }
 
@@ -40,7 +40,7 @@ h2 {
 }
 
 h3 {
-  font-family: 'Gabriela', serif;
+  font-family: 'Helvetica', serif;
   font-size: 1.5em;
   margin-top: .5em;
 }
@@ -56,7 +56,7 @@ p {
 }
 
 a {
-  color: black;
+  color: rgb(255, 255, 255);
   text-decoration: none;
 }
 
